@@ -4,4 +4,4 @@
 >> O Factory Method permite a uma classe deferir a instanciação para subclasses.
 > 
 >>### Abstract Factory
->> Um padrão que permite que você produza famílias de objetos relacionados sem ter que especificar suas classes concretas. \
+>> Um padrão que permite que você produza famílias de objetos relacionados sem ter que especificar suas classes concretas.
